@@ -1,5 +1,5 @@
 {
-  "name": "potter-orm",
+  "name": "minima-php/potter-orm",
   "description": "Magical (and bad) ORM",
   "autoload": {
     "psr-0": {
