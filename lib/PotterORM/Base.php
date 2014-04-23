@@ -5,7 +5,7 @@ namespace PotterORM;
  * Class Base
  * @package Model
  */
-class BaseModel implements \ArrayAccess
+class Base implements \ArrayAccess
 {
 	/** @var string Table name */
 	static protected $table = '';
